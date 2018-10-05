@@ -1,0 +1,11 @@
+Plan 1:
+
+Add new elements to scraping -- offerListingID
+
+Create new table in SQL --- tb_OfferListingID
+
+id
+master_id
+OfferListingId
+StockLevel
+job_status
